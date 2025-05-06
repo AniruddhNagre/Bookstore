@@ -35,11 +35,7 @@ mern-client/node_modules/
 mern-client/build/
 mern-server/dist/
 
-# Logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+
 
 # OS-specific files
 .DS_Store
